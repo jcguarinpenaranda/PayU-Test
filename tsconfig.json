@@ -1,0 +1,16 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "target": "es5",
+        "watch": true,
+        "module": "commonjs",
+        "noImplicitAny" : true,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "sourceMap": false
+    },
+    "exclude": [
+        "node_modules",
+        "typings"
+    ]
+}
